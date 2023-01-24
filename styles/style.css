@@ -1,0 +1,20 @@
+.house-logo-size{
+    width: 120px;
+}
+.house-logo-size2{
+    width: 130px;
+}
+.house-bg-color{
+    background-color: #B68C5A;
+}
+.house-text-color{
+    color:#B68C5A;
+    width: 30px;
+    text-align: center;
+    margin-left: 80px;   
+}
+.house-font-style{
+    font-family: 'EB Garamond';
+    font-weight: 800;
+}
+
